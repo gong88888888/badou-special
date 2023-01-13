@@ -14,3 +14,4 @@
 |  [09](./Week_09)  |训练&框架|Keras和从零开始实现神经网络|
 |  [10](./Week_10)  |框架&CNN|Pytorch和CIFAR10卷积神经网络实现|
 |  [11](./Week_11)  |图像识别|AlexNet,vgg和Resnet的推理和训练|
+|  [12](./Week_12)  |图像识别2|InceptionV3和MobileNet的推理和训练|
